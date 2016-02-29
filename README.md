@@ -1,4 +1,3 @@
 # hello-world
 New repository
-
-Last revision1.
+Final revision.
